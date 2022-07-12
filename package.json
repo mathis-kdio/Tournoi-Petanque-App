@@ -47,6 +47,7 @@
     "react-redux": "^7.2.8",
     "redux": "^4.2.0",
     "redux-persist": "^6.0.0",
+    "expo-file-system": "~14.0.0",
     "sentry-expo": "^4.2.0",
     "expo-system-ui": "~1.2.0",
     "expo-navigation-bar": "~1.2.0"
